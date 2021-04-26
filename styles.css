@@ -1,0 +1,44 @@
+body{background-color:#474746 ;
+color:#2e1919 ;font-family: 'Open Sans', sans-serif;}
+
+    
+img
+{width:60%;
+    margin: 50px 0 50px 30%;
+    border-style: solid;
+    border-color:#5e5d5b ;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+
+    
+}
+
+
+.fila{
+    display:flex;
+}
+
+h1
+{font-size:1cm;
+font-weight: 500; 
+}
+h2
+ {font-size: 1cm;}
+
+ h3{font-size: 0.5cm;}
+.columna-primera{
+    width: 40%;
+    height : 150vh;
+    background-color : #857c7b;
+    padding: 20PX;
+    
+}
+
+.columna-segunda{
+    width: 60%;
+    height: 129vh;
+    background-color: #E98074;
+    padding: 90px;
+}
+
